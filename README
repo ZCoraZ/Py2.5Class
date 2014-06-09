@@ -1,0 +1,11 @@
+###Py2.5Class
+==========
+
+_Exercises from Introduction to Python 2.5 Programming class_
+
+Text_Sampler_GUI.py is an expanded version of an exercise in creating a GUI with event-driven programming components, from Lesson 12 of Introduction to Python 2.5 Programming.
+
+
+**Run requirements:** Python (written in 2.5); Python Tkinter
+
+**The goal:** Creates a GUI that allows user to enter text, the text displays, and the user can make changes to the displayed text via a variety of font choices.
